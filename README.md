@@ -32,8 +32,7 @@ The Tokenized Health Records project aims to:
 ## Future Improvements
 
 1. **Integration with Off-Chain Storage**: Use IPFS or other decentralized storage solutions for storing larger files.
-2. **Zero-Knowledge Proof Integration**: Add ZKPs for selective data sharing without revealing full records.
-3. **Automated Audit Logging**: Track access and modifications to ensure compliance with healthcare regulations.
+2. **Automated Audit Logging**: Track access and modifications to ensure compliance with healthcare regulations.
 
 ## License
 
