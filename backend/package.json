@@ -1,0 +1,28 @@
+{
+  "name": "tokenizedhealthrecords",
+  "version": "1.0.0",
+  "description": "The Tokenized Health Records project is a decentralized, privacy-preserving system for managing and sharing health data on the blockchain. By leveraging tokenization and access control, patients gain full ownership over their health records, with the ability to selectively share data with healthcare providers in a secure, permissioned manner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "healthcare",
+    "hackathon",
+    "blockchain"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.8.1",
+    "nodemailer": "^6.9.16",
+    "nodemon": "^3.1.7"
+  }
+}
