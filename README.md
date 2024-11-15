@@ -34,6 +34,8 @@ The Tokenized Health Records project aims to:
 1. **Integration with Off-Chain Storage**: Use IPFS or other decentralized storage solutions for storing larger files.
 2. **Automated Audit Logging**: Track access and modifications to ensure compliance with healthcare regulations.
 
+## Contract Address; 0x26c804e991be330b4f59cb09ec1f2c282d549e79
+
 ## License
 
 This project is licensed under the MIT License.
