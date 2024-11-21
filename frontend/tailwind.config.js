@@ -15,6 +15,10 @@ export default {
       },
       colors: {
         thrGreen: "#00FFB2",
+        "primary-dark": "#0F121E",
+        "secondary-dark": "#15192B",
+        "hover-dark": "#1C2234",
+        "primary-accent": "#3EE0AC",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         card: {
