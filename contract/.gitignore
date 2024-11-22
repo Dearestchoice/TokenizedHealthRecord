@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Hardhat cache and artifacts
+cache/
+artifacts/
+
+# Environment variables
+.env
+
+# Hardhat config backups
+*.tsbuildinfo
+
+# Logs and debug files
+*.log
+*.tmp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+
+# Ignore coverage reports
+coverage/
+coverage.json
+.coverage
+
+# Ignore flattened contracts if applicable
+flattened/
+*.sol.flattened
+
+# Truffle-specific (if used alongside Hardhat)
+build/
